@@ -106,8 +106,8 @@ AI-powered product photography SaaS that I built from scratch. Upload 1 product 
 
 ---
 
-### [Concierge AI](https://github.com/beetz12/concierge-ai) - AI Agents Assemble 2025 Hackathon
-> Built in 7 days. AI Concierge that finds contractors near you, makes concurrent phone calls, interviews them, and books appointments automatically.
+### [Concierge AI](https://concierge-ai-web.vercel.app/) - AI Agents Assemble 2025 Hackathon **[LIVE]**
+> Built in 7 days. AI Concierge that finds contractors near you, makes concurrent phone calls, interviews them, and books appointments automatically. | [Live Demo](https://concierge-ai-web.vercel.app/) | [GitHub](https://github.com/beetz12/concierge-ai)
 
 **The Problem:** Finding and vetting service providers (plumbers, electricians, contractors) takes hours of phone calls and back-and-forth scheduling.
 
@@ -119,6 +119,7 @@ AI-powered product photography SaaS that I built from scratch. Upload 1 product 
 - 5 concurrent AI phone calls
 - 80% time savings vs manual booking
 - Real-time comparison of quotes and availability
+- **Live at:** [concierge-ai-web.vercel.app](https://concierge-ai-web.vercel.app/)
 
 ---
 
@@ -197,8 +198,12 @@ I'm open to opportunities where I can make an impact:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beetz12&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beetz12&theme=dark&layout=compact&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beetz12&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beetz12&theme=github_dark&layout=compact&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beetz12&theme=github-dark-blue&hide_border=true" height="165"/>
 </div>
 
 ---
