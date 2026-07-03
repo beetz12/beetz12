@@ -53,15 +53,15 @@
     </td>
     <td align="center">
       <b>AI & ML Tools</b><br><br>
-      <sub><code>Claude Opus 4.5</code> <code>Gemini 3.0 Pro</code> <code>OpenAI</code></sub><br>
+      <sub><code>Claude Opus 4.8</code> <code>Gemini 3.5 Pro</code> <code>OpenAI</code></sub><br>
       <sub><code>RAG</code> <code>Weaviate</code> <code>LangChain</code> <code>Kestra</code></sub>
     </td>
   </tr>
 </table>
 
 ### AI & Automation
-![Claude](https://img.shields.io/badge/Claude_Opus_4.5-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_3.0_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Opus_4.8-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_3.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Kestra](https://img.shields.io/badge/Kestra-6C47FF?style=for-the-badge&logoColor=white)
 ![VAPI](https://img.shields.io/badge/VAPI.ai-Voice_AI-FF6B6B?style=for-the-badge)
@@ -76,7 +76,7 @@
 ## Currently Working On
 
 ### Chief AI Officer @ NexAI Advisors
-Building AI-powered development frameworks that let startups ship products in **8 weeks instead of 8 months**. I'm architecting workflows with Claude Opus 4.5 and Gemini that transform how growth-stage companies ($10M-$100M revenue) approach rapid prototyping.
+Building AI-powered development frameworks that let startups ship products in **8 weeks instead of 8 months**. I'm architecting workflows with Claude Opus 4.8 and Gemini that transform how growth-stage companies ($10M-$100M revenue) approach rapid prototyping.
 
 ### Full Stack Engineer @ Monli Pets
 Built a custom **Next.js frontend for WooCommerce backend** in 8 weeks for my wife's wholesale pet business. Created a B2B portal with customer-specific pricing, custom order flows, and admin dashboards. **3x faster page loads**, saved over $1,000/month in plugin fees, and it's handling real production traffic.
