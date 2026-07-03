@@ -78,6 +78,8 @@
 ### Chief AI Officer @ NexAI Advisors
 Building AI-powered development frameworks that let startups ship products in **8 weeks instead of 8 months**. I'm architecting workflows with Claude Opus 4.8 and Gemini that transform how growth-stage companies ($10M-$100M revenue) approach rapid prototyping.
 
+Our open-source resources live at [github.com/nex-aiadvisors](https://github.com/nex-aiadvisors) — start with the [Agent Spend Starter Kit](https://github.com/nex-aiadvisors/agent-spend-starter-kit), the caps, stop conditions, and model-routing rules we use to keep autonomous AI runs accountable.
+
 ### Full Stack Engineer @ Monli Pets
 Built a custom **Next.js frontend for WooCommerce backend** in 8 weeks for my wife's wholesale pet business. Created a B2B portal with customer-specific pricing, custom order flows, and admin dashboards. **3x faster page loads**, saved over $1,000/month in plugin fees, and it's handling real production traffic.
 
@@ -164,9 +166,10 @@ AI-powered product photography SaaS that I built from scratch. Upload 1 product 
 
 ## Currently Learning
 
-- **Go** - Building high-performance backend services and microservices
-- **Claude Agent SDK** - Creating autonomous AI agents that can take actions
-- **Google Workflow Automations** - Enterprise-scale automation and integration patterns
+- **Agentic loops** - Bounded autonomous runs with objective done-conditions, verification gates, and hard budget caps
+- **Claude Fable 5** - Anthropic's Mythos-class frontier model, for work where a failed attempt costs more than the tokens
+- **Custom agent harnesses** - My own orchestration layer: scheduling, memory, verification, and multi-agent workflows
+- **AI YouTube production** - A fully AI-native video pipeline: script to voice to avatar to Remotion render to QC gate
 
 ---
 
